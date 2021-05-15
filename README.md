@@ -11,3 +11,11 @@ A udacity learning project which helps to make Meal Time Table for the week and 
 5. Run the app using `npm start run`.
 6. App can be seen at: `http://localhost:3000`.
 
+### Screenshots
+
+![](Screenshots/Meal1.jpg)
+
+![](Screenshots/meal3.jpg)
+
+![](Screenshots/meal2.jpg)
+
